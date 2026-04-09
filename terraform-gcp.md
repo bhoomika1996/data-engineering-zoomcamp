@@ -11,7 +11,6 @@ You don't need these instructions if you use WSL. It's only for "plain Windows"
 * Unzip it and run the `install.sh` script
 
 When installing it, you might see something like that:
-
 ```
 The installer is unable to automatically update your system PATH. Please add
   C:\tools\google-cloud-sdk\bin
